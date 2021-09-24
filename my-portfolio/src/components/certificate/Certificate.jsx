@@ -2,7 +2,7 @@ import "./certificate.scss";
 
 export default function Certificate() {
     return (
-        <div className = "certificate">
+        <div className = "certificate" id="certificate">
             certificate
         </div>
     )
